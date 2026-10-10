@@ -1,0 +1,6 @@
+{
+  "name": "Tiệm May Ký Ức",
+  "description": "AI Styling Studio for Vietnamese traditional clothing — Chạm ký ức. Phối chất riêng. Giữ nét Việt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
